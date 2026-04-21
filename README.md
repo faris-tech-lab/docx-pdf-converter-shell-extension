@@ -11,8 +11,8 @@ Uses Microsoft Word's built-in PDF export, so your formatting is preserved exact
 ## Requirements
 
 - Windows 10/11
-- Microsoft Word (any recent version)
-- PowerShell (ships with Windows)
+- Microsoft Word
+- PowerShell
 
 ## Install
 
