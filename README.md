@@ -1,6 +1,7 @@
 # DOCX to PDF — Right-Click Converter
 
 Adds a "Convert to PDF" option to the Windows Explorer right-click menu for `.docx` files.
+
 Uses Microsoft Word's built-in PDF export, so your formatting is preserved exactly.
 
 ## Demo
